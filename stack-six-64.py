@@ -1,4 +1,5 @@
-from pwn import *
+### Note: See /notes to know how to make address inside and outside gdb are the same ###
+
 import struct
 
 #INPUT_SIZE = 127
